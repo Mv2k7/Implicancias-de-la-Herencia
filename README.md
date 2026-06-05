@@ -7,3 +7,6 @@ Visual Paradigm con Instant Reverse
 
 PlantUML
 <img width="1256" height="584" alt="imagen" src="https://github.com/user-attachments/assets/a85c23eb-9df4-46c8-996b-4eb78e4b9d99" />
+
+CODIGO EJECUTADO
+<img width="1862" height="948" alt="imagen" src="https://github.com/user-attachments/assets/72dd98b6-d16f-476a-b28b-4bf2965f92c4" />
