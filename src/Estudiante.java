@@ -12,7 +12,7 @@ public class Estudiante extends Persona {
 
     @Override
     protected String metodo() {
-        return "Lca clase de este objeto es: " + this.getClass().getSimpleName();
+        return "La clase de este objeto es: " + this.getClass().getSimpleName();
     }
 
     @Override

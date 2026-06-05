@@ -11,6 +11,7 @@ public final class EstudianteDeportista extends Estudiante {
     }
     @Override
     public String toString() {
-        return super.toString() + "\n - Estudiante Deportista: [Deporte que Practica: " + deporteQuePractica + "\n Horas de Entrenamiento: " + horasDeEntrenamiento + "]";
+        return super.toString() + "\n - Estudiante Deportista: [Deporte que Practica: " + deporteQuePractica +
+                "\n Horas de Entrenamiento: " + horasDeEntrenamiento + "]";
     }
 }
