@@ -8,6 +8,12 @@ public abstract class Persona {
         this.rut = rut;
         this.edad = edad;
     }
-    
+
+
+    @Override
+    public String toString() {
+        return "Persona: [Nombre: " + nombre + ", RUT: " + rut + ", Edad: " + edad + "]";
+    }
+
     protected abstract String metodo();
 }
